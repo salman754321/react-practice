@@ -1,0 +1,29 @@
+body,*{
+    margin: 0 auto;
+}
+.header{
+    background-color: aqua;
+    height: 150px;
+    width: 100%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-family: cursive;
+
+}
+.heading{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+  
+}
+.feed{
+    font-size: 25px;
+}
+.newsitem{
+    background-color: #888888;
+    height: auto;
+    border-bottom: 1px solid black;
+
+}
